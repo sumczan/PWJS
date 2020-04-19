@@ -1,5 +1,5 @@
 # ss41518
-
+# wersja na 3
 # przykładowy plik html trzeba podać jako argument
 # przy uruchomieniu skryptu
 use strict;
