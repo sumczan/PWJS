@@ -1,4 +1,5 @@
 # ss41518
+# wersja na 3
 use strict;
 use warnings;
 use Path::Tiny qw(path);
