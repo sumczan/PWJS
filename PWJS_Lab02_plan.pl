@@ -1,5 +1,6 @@
 # ss41518
 # wersja na 3
+# plik *.ics trzeba podać jako argument przy uruchomieniu skryptu
 use strict;
 use warnings;
 use Path::Tiny qw(path);
