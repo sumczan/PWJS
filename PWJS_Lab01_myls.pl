@@ -1,4 +1,4 @@
-# ss41518
+# ss41518 grupa 31C
 # wersja na 4, opcja -L jest uwzględniona, ale polecenie getpwuid nie działa pod Windows'em
 # domyślna sciezka jest ustawiona na katalog bieżący i
 # w odniesieniu do niego trzeba się poruszać między katalogami
