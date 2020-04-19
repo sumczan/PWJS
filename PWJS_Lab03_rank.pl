@@ -1,4 +1,4 @@
-# ss41518
+# ss41518 grupa 31C
 # wersja na 3
 # przykładowy plik html trzeba podać jako argument
 # przy uruchomieniu skryptu
